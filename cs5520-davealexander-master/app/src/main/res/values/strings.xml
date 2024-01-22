@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NUMAD23Su_DavidCenteno</string>
+    <string name="about_me_string">About Me</string>
+    <string name="clicky_clicky">Clicky Clicky</string>
+    <string name="linkcollector">Link Collector</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="f">F</string>
+    <string name="pressed">Pressed:</string>
+    <string name="pressedinput">-</string>
+    <string name="e">E</string>
+    <string name="d">D</string>
+    <string name="title">TITLE</string>
+    <string name="link">TESTING</string>
+    <string name="titleEntry">Title</string>
+    <string name="linkEntry">Link</string>
+    <string name="Submit">Submit</string>
+    <string name="fullname">Dave Centeno</string>
+    <string name="email">centeno.d@northeastern.edu</string>
+    <string name="threadactivty">Thread Activity</string>
+    <string name="primes">Find Primes</string>
+    <string name="terminate">Terminate Search</string>
+    <string name="pacifier">Pacifier Switch</string>
+    <string name="currentNumber">Current:</string>
+    <string name="latestNumber">Latest:</string>
+    <string name="location">Location</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="clearDist">Clear Distance</string>
+    <string name="distance">Distance traveled</string>
+    <string name="locationTitle">Location Activity</string>
+
+</resources>
